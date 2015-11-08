@@ -1,0 +1,20 @@
+
+Degur - program for work with duty list.
+
+------------------------------------------------------------------------
+You may use it аccording to license GNU GPL v.3
+
+Probably my development this project terminated for me or very
+slow run, because fast all function needed me also released
+long ago.
+
+Current realese adapted for russian users. If you need other
+adaptations, functions contact by me or may develop fork.
+
+Preferred license GNU GPL v.3 - english
+More accurate text, help and comments - russian
+
+------------------------------------------------------------------------
+Requirements:
+* Python3
+* PyYAML
